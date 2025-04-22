@@ -1,0 +1,258 @@
+.body{
+    background-color:rgb(170, 164, 164);
+}
+
+.udemy{
+    align-items: center;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    
+}
+.search{
+    border-radius:10px;
+    width:900px;
+    height:40px;
+    font-size: 20px;
+}
+.fa-solid{
+    font-size: 30px;
+}
+.header{
+    margin: 10px;
+    font-size:25px;
+}
+.log{
+    font-size: 20px;
+    background-color: white;
+    color: black;
+}
+.in{
+    font-size:20px;
+    background-color:black;
+    color:white;
+}
+.course{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    font-size: 20px;
+    }
+
+.courses{
+    margin: 15px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    font-size: 10px;
+}
+.btn1{
+    border-radius: 20px;
+}
+.btn2{
+    border-radius: 20px;
+}
+.btn3{
+    border-radius: 20px;
+}
+.btn4{
+    border-radius: 20px;
+}   
+.btn5{
+    border-radius: 20px;
+}   
+
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 100px;
+    column-gap: 20px;
+    row-gap: 10px;
+}
+
+.course1,.course2,.course3,.course4{
+    margin: 20px;
+    border:1.5px solid violet;
+    padding:10px;
+    box-shadow: 3px 3px 3px;
+    width: 300px;
+    border-radius: 10px;
+}
+.show{
+    margin: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    border-radius: 10px;
+}
+.logos{
+    margin: 30px;
+    display: flex;
+    flex-direction: row;
+    gap:70px;
+}
+.on{
+    font-size:30px;
+    font-family:sans-serif;
+    margin: 20px;
+}
+.part{
+    margin: 40px;
+    display: flex;
+}
+.or{
+    margin: 30px;
+}
+
+.goal1{
+    background-image: url(hands-on-practice.webp);
+    width: 650px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 2.5px 2.5px purple;
+ }
+ .goal2{
+    background-image: url(certificate.webp);
+    width: 650px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 2.5px 2.5px purple;
+    
+ }
+ .goal3{
+    background-image: url(empty-state-1.webp);
+    width: 650px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 2.5px 2.5px purple;
+ }
+ .goal4{
+    background-image: url(organizations-2.png);
+    width: 650px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 20px;
+    border-radius: 20px;
+    border: 1px solid black;
+    box-shadow: 2.5px 2.5px purple;
+ }
+ .group{
+    margin: 20px;
+    display: flex;
+    column-gap: 20px;
+ }
+ .group1,.group2,.group3{
+    border:1px solid blueviolet;
+    padding:10px;
+    box-shadow: 3px 3px 3px;
+    width: 300px;
+    border-radius: 10px;
+    
+    
+    
+ }
+.boxes{
+    margin: 20px;
+    display: flex;
+    column-gap: 20px;
+}
+.box1{
+    border: 1.5px solid violet;
+    padding :10px;
+    box-shadow: 3px 3px 3px;
+    width:300px;
+    border-radius: 10px;
+}
+.box2{
+    border: 1px solid violet;
+    padding :10px;
+    box-shadow: 3px 3px 3px;
+    width:300px;
+    border-radius: 10px;
+}
+.box3{
+    border: 1px solid violet;
+    padding :10px;
+    box-shadow: 3px 3px 3px;
+    width:300px;
+    border-radius: 10px;
+    row-gap: 20px;
+}
+.box4{
+    border: 1px solid violet;
+    padding :10px;
+    box-shadow: 3px 3px 3px;
+    width:300px;
+    border-radius: 10px;
+}
+.row{
+    display: flex;
+    padding: 40px;
+    column-gap: 100px;
+}
+.py{
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.py1{
+     box-sizing: border-box;
+    border:1.5px solid violet;
+    box-shadow: 3px 3px 3px;
+    padding:10px;
+     width: 300px;
+    border-radius: 10px;
+}
+.py2{
+    box-sizing: border-box;
+    border:1.5px solid violet;
+    box-shadow: 3px 3px 3px;
+    padding:10px;
+    width: 300px;
+    border-radius: 10px;
+
+}
+.py3{
+    box-sizing: border-box;
+    border:1.5px solid violet;
+    box-shadow: 3px 3px 3px;
+    padding:10px;
+     width: 300px;
+    border-radius: 10px;
+}
+.py4{
+    box-sizing: border-box;
+    border:1.5px solid violet;
+    box-shadow: 3px 3px 3px;
+    padding:10px;
+     width: 300px;
+    border-radius: 10px;
+}
+.back{
+    background-color: black;
+    padding: 30px;
+}
+.backk{
+    display: flex;
+
+}
+.team{
+    display: flex;
+    column-gap: 50px;
+    padding: 30px;
+}
+.div{
+    padding:100px;
+
+}
